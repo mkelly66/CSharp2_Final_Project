@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FinalProject.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BankInitialVaultAmount" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="BankNumberOfCustomers" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="BankNumberOfTellers" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="CustGoalAmount" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="TransMaxTransAmount" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="BBankInitialVaultAmount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10001</Value>
+    </Setting>
+    <Setting Name="BBankNumberOfCustomers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="BBankNumberOfTellers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="CCustGoalAmount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">201</Value>
+    </Setting>
+    <Setting Name="TTransMaxTransAmount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">101</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
